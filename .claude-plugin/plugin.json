@@ -1,0 +1,16 @@
+{
+  "name": "princeps",
+  "version": "0.4.0",
+  "description": "Autonomous project execution engine — day-by-day plans, Nova-style kanban dashboard with pixel characters, auto-scheduled tasks, and manual /execute triggers.",
+  "author": {
+    "name": "Rajveer Kapoor",
+    "email": "kapoorrajveer10@gmail.com"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/RajveerKapoor/princeps",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RajveerKapoor/princeps"
+  },
+  "keywords": ["projects", "status", "dashboard", "tracking", "automation", "schedule"]
+}
